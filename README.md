@@ -1,0 +1,1 @@
+This README is about sorting algorithms for the Holberton School's cursus.
