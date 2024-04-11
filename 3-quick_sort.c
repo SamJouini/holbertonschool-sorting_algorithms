@@ -5,6 +5,7 @@
  * @array: The array to be sorted
  * @size: The size of the array
  */
+
 void quick_sort(int *array, size_t size)
 {
 	quick_sort_recursive(array, 0, size - 1, size);
